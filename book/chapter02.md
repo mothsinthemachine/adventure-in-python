@@ -9,5 +9,6 @@ This may be your first adventure! What do you need to know before heading out? O
 - Collecting data with `input()` function
 - Assignment operator `=`
 - Datatypes and using `type()` function
+- String concatenation
 - Concatenating using `str()` function
 - Encapsulating functions

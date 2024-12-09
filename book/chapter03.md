@@ -10,4 +10,3 @@ You've got your equipment and are ready to embark on an epic journey. However, t
 - `if`,`elif`, and `else` statements
 - Booleans and the negating `not` keyword
 - The `while` loop statement
-- Priming variables

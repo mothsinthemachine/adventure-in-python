@@ -4,10 +4,10 @@
 def main():
 	# Display title screen
 	print('''\n
-	---------------------------------
-			It's time for
-		A D V E N T U R E !
-	---------------------------------\n\n''')
+---------------------------------
+          It's time for
+        A D V E N T U R E !
+---------------------------------\n\n''')
 
 	choice = '' # Prime choice with an empty string
 	while not choice == '0':
